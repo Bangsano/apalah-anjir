@@ -1,7 +1,8 @@
 {
-  "users": [
-    {
-      "password": "bangsano"
-    }
-  ]
+    "users": [
+        {
+            "username": "sanoofc",
+            "password": "cfoonas"
+        }
+    ]
 }
