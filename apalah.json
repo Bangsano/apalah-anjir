@@ -1,19 +1,19 @@
 {
-    "users": [
-        {
-            "password": "sanoofficial"
-        },
-        {
-            "password2": "rapziexd"
-        },
-        {
-            "password3": "gadzzmodss"
-        },
-        {
-            "password4": "firmanoffc"
-        },
-        {
-            "password5": "ninorexy"
-        }
-    ]
+  "users": [
+    {
+      "password": "sanoofc"
+    },
+    {
+      "password2": "rapziexd"
+    },
+    {
+      "password3": "gadzzmodss"
+    },
+    {
+      "password4": "firmanoffc"
+    },
+    {
+      "password5": "ninorexy"
+    }
+  ]
 }
